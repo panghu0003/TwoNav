@@ -35,7 +35,7 @@ TwoNav 是一款开源的书签（导航）管理程序，界面简洁，安装�
 
 ### 版本差别 
 
-* 免费版无需授权即可使用 / 标准版|高级版需[获取授权](https://gitee.com/tznb/TwoNav/wikis/pages?sort_id=7968669&doc_id=3767990)
+* 免费版无需授权即可使用 / 标准版|高级版需[获取授权](https://pay.twonav.cn/)
 * 以下是简要的差别对比, 还有很多细节无法全部列举出来
 
 | 功能                         | 免费版           | 标准版           | 高级版                     |
@@ -63,6 +63,13 @@ TwoNav 是一款开源的书签（导航）管理程序，界面简洁，安装�
 | 短信登录 | 不支持 | 不支持 | **支持** |
 | 域名防红 | 不支持 | 不支持 | **支持** |
 | 个性域名 | 不支持 | 不支持 | **支持** |
+| 登录保护 | 不支持 | 不支持 | **支持** |
+| 广告功能 | 不支持 | 不支持 | **支持** |
+| 多域名授权 | 不支持 | 不支持 | **付费支持** |
+* 个性域名: 允许用户自定义域名前缀、访问前缀.主域名等于访问对应用户的主页、标准版支持用户名.主域名访问对应用户的主页
+* 登录保护: 用于防止暴力破解、可根据IP或账号自动限制登录行为
+* 广告功能: 支持在后台添加文字广告、大横幅、小横幅等、可设置到期后自动停用
+* 多域名授权: 支持授权多个主域名、支持给不同域名设置不同主页、从而节省成本(具体可联系客服咨询)
 
 
 ### 功能特色
@@ -83,6 +90,11 @@ TwoNav 是一款开源的书签（导航）管理程序，界面简洁，安装�
 * 支持更换各种模板/支持混搭,26个主题模板
 * 安全性支持:更换登录入口/二级密码/OTP双重验证
 
+### 赞助商
+* [此项目的 CDN 加速和安全防护由腾讯 EdgeOne 赞助。](https://edgeone.ai/?from=github "此项目的 CDN 加速和安全防护由腾讯 EdgeOne 赞助。")
+[![](https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png)](https://edgeone.ai/?from=github)
+[Best Asian CDN, Edge, and Secure Solutions - Tencent EdgeOne](https://edgeone.ai/?from=github "Best Asian CDN, Edge, and Secure Solutions - Tencent EdgeOne")
 
 ![](https://foruda.gitee.com/images/1680680754989095293/fcc56e76_10359480.jpeg "主页预览")
 ![](https://foruda.gitee.com/images/1680680836189756220/8c227c34_10359480.jpeg "主题模板")
+
